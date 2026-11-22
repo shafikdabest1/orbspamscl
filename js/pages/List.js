@@ -187,7 +187,7 @@ export default {
                         <strong>level requirements:</strong>
                     </p>
                     <p>
-                        levels MUST be controlled blue/green orb spam with an angle of 15 degrees or higher
+                        levels MUST be controlled blue/green orb spam with an angle of 25 degrees or higher
                     </p>
                     <p>
                         if the level uses a nong please add that in your submission
@@ -200,6 +200,9 @@ export default {
                     </p>
                     <p>
                         try not to use any art importer mods because they can break level id's
+                    </p>
+                     <p>
+                         a level can have itself, and the most times it has been done a row with the maximum amount of times done in a row being 5 ex: sakupen elc and sakupen elc x5 are on the list, there cannot be a sakupen elc x2-4
                     </p>
                     <p>
                         <strong>verification and record requirements:</strong>
