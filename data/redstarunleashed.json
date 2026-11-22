@@ -10,5 +10,11 @@
     "enjoyment": "Cube",
     "gamemode": "cube",
     "records": [
+         {
+            "user": "damavamba",
+            "link": "https://www.youtube.com/watch?v=RHjePpaB4F0",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
