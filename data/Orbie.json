@@ -40,6 +40,12 @@
             "percent": 100,
             "hz": 0,
             "mobile": true
+        },
+        {
+            "user": "rip bergdorf",
+            "link": "https://youtu.be/8Gn-VTRZcEw",
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
